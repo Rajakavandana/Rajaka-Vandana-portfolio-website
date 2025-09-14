@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rajaka-vandana-portfolio-website/static/css/main.204bad84.css",
+    "main.js": "/rajaka-vandana-portfolio-website/static/js/main.3fd7d793.js",
+    "static/js/453.acca0757.chunk.js": "/rajaka-vandana-portfolio-website/static/js/453.acca0757.chunk.js",
+    "static/media/rklegal1.png": "/rajaka-vandana-portfolio-website/static/media/rklegal1.9d5d798997059366979d.png",
+    "static/media/fmh1.png": "/rajaka-vandana-portfolio-website/static/media/fmh1.ccc55bd33d1c638d306e.png",
+    "static/media/fmh2.png": "/rajaka-vandana-portfolio-website/static/media/fmh2.37e174e56cdd663acc94.png",
+    "static/media/rklegal2.png": "/rajaka-vandana-portfolio-website/static/media/rklegal2.1b5eb8fdc7c35aa34123.png",
+    "static/media/port.png": "/rajaka-vandana-portfolio-website/static/media/port.50c9cd2a40789ad7c3e8.png",
+    "static/media/Rajaka-Vandana.pdf": "/rajaka-vandana-portfolio-website/static/media/Rajaka-Vandana.fee17b648f42bfbfdcce.pdf",
+    "static/media/vandana.jpeg": "/rajaka-vandana-portfolio-website/static/media/vandana.5ad2b8d0e35ab10768d2.jpeg",
+    "index.html": "/rajaka-vandana-portfolio-website/index.html",
+    "main.204bad84.css.map": "/rajaka-vandana-portfolio-website/static/css/main.204bad84.css.map",
+    "main.3fd7d793.js.map": "/rajaka-vandana-portfolio-website/static/js/main.3fd7d793.js.map",
+    "453.acca0757.chunk.js.map": "/rajaka-vandana-portfolio-website/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204bad84.css",
+    "static/js/main.3fd7d793.js"
+  ]
+}
