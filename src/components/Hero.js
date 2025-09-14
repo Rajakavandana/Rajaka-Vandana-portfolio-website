@@ -1,6 +1,6 @@
 import React from "react";
-import avatar from "../assets/ravi-anjaneyulu.jpg";
-import resume from "../assets/Anjaneyulu-resume.pdf";
+import avatar from "../assets/vandana.jpeg";
+import resume from "../assets/Rajaka-Vandana.pdf";
 import "../App.css";
 
 function Hero() {
@@ -8,12 +8,10 @@ function Hero() {
     <>
       <section className="hero">
         <div className="hero-text">
-          <h1>👋 Hi, I’m Anjaneyulu Ravi</h1>
+          <h1>👋 Hi, I’m Rajaka Vandana</h1>
           <h2>Building Scalable & User-Centric Web Apps</h2>
           <p>
-            I’m a dedicated Full Stack Developer with hands-on experience in building 
-            responsive and dynamic web applications using React, Node.js, Express, 
-            MongoDB, and PHP. I focus on creating impactful user and admin dashboards.
+            A passionate B.Tech Engineering graduate (2023) turned full-stack developer. Skilled in Java, React.js, HTML, CSS, and JavaScript, I build responsive and user-friendly web applications. Eager to apply problem-solving skills and UI/UX design knowledge in a dynamic environment and grow as a software professional.
           </p>
           <div className="hero-buttons">
             <a href="#projects">
@@ -39,29 +37,29 @@ function Hero() {
         </div>
       </section>
 
-      <section className="profile-boxes">
-        <div className="box">
-          <h3>Experience</h3>
-          <p>1.8+ years working on real-time full stack web projects.</p>
-        </div>
-        <div className="box">
-          <h3>Skills</h3>
-          <p>
-            React, Node.js, Express.js, MongoDB, JavaScript, PHP, CodeIgniter, 
-            MySQL, HTML5, CSS3, Bootstrap, REST APIs
-          </p>
-        </div>
-        <div className="box">
-          <h3>Projects</h3>
-          <p>
-            Completed 3+ major live projects including job portals and booking platforms.
-          </p>
-        </div>
-        <div className="box">
-          <h3>Education</h3>
-          <p>Bachelor's Degree in Mechanical Engineering</p>
-        </div>
-      </section>
+<section className="profile-boxes"> 
+  <div className="box">
+    <h3>Experience</h3>
+    <p>Fresher with academic projects and training in software development, eager to contribute to real-world IT solutions.</p>
+  </div>
+  <div className="box">
+    <h3>Skills</h3>
+    <p>
+      Java, React.js, HTML5, CSS3, JavaScript, Bootstrap, MySQL, REST APIs, problem-solving, debugging, version control (Git)
+    </p>
+  </div>
+  <div className="box">
+    <h3>Projects</h3>
+    <p>
+      Completed academic and personal projects such as Job portal and portfolio websites, focusing on frontend development and responsive design.
+    </p>
+  </div>
+  <div className="box">
+    <h3>Education</h3>
+    <p>Bachelor's Degree in Civil Engineering, with software development training and certifications in full-stack technologies.</p>
+  </div>
+</section>
+
     </>
   );
 }

@@ -61,8 +61,8 @@ function Contact() {
       <p className="contact-sub">Open to freelance, collaboration or full-time roles.</p>
       <div className="contact-layout">
         <div className="contact-info">
-          <p><FaEnvelope /> anjaneyuluravi64@gmail.com</p>
-          <p><FaPhone /> +91 6301932501</p>
+          <p><FaEnvelope /> rvandana1.career@gmail.com</p>
+          <p><FaPhone /> +91 8179507221</p>
           <p><FaLinkedin /> <a href="https://www.linkedin.com/in/anjaneyulu-ravi-058076220" target="_blank" rel="noreferrer">linkedin.com/in/anjaneyulu-ravi</a></p>
           <p><FaGithub /> <a href="https://github.com/Rama-anji" target="_blank" rel="noreferrer">github.com/Rama-anji</a></p>
         </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import "../App.css";
-import aboutImg from "../assets/ravi-anjaneyulu.jpg"; // Use your cartoon image path
+import aboutImg from "../assets/vandana.jpeg"; // Use your cartoon image path
 
 function About() {
   return (
@@ -10,12 +10,13 @@ function About() {
       </div>
       <div className="about-content">
         <h2>About Me</h2>
-        <p>
-          I'm Anjaneyulu Ravi, a dedicated Full Stack Developer experienced in building scalable web applications. My core strength lies in MERN stack technologies.
-        </p>
-        <p>
-          I began my journey at Infosys as a Systems Engineer, learning RDBMS, Power BI, and MongoDB. Later, I joined BSIT Software Services, where I worked extensively with React, Node.js, PHP, CodeIgniter, and built real-time applications such as job portals and booking systems.
-        </p>
+       <p>
+  I'm Rajaka Vandana, a passionate and motivated fresher aiming to build a career as a Full Stack Developer. I have completed training in MERN stack technologies and PHP development, and I am eager to contribute to innovative and scalable web solutions.
+</p>
+<p>
+  During my academic projects and internships, I gained hands-on experience in Java, MongoDB, Express.js, React.js, Node.js, PHP, and MySQL. I have developed task management systems, portfolio websites, and job portals, focusing on creating responsive and user-friendly applications.
+</p>
+
       </div>
     </section>
   );

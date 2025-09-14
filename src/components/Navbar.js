@@ -10,7 +10,7 @@ function Navbar() {
 
   return (
     <header className="navbar">
-      <div className="navbar-left">Anjaneyulu Ravi</div>
+      <div className="navbar-left">Rajaka Vandana</div>
 
       <nav className={`navbar-center ${isMobileMenuOpen ? "open" : ""}`}>
         <a href="#home" onClick={toggleMenu}>Home</a>

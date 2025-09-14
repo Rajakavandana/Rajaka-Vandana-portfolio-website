@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import "../App.css";
-import bsitImg1 from "../assets/careersarbsit1.png";
-import bsitImg2 from "../assets/careersarbsit2.png";
+import bsitImg1 from "../assets/port.png";
+import bsitImg2 from "../assets/port.png";
 import hostelImg1 from "../assets/fmh1.png";
 import hostelImg2 from "../assets/fmh2.png";
 import rklegal1 from "../assets/rklegal1.png";

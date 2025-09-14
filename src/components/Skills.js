@@ -6,14 +6,14 @@ const skillsData = {
     {
       name: "React",
       icon: "devicon-react-original colored",
-      proficiency: 80,
+      proficiency: 70,
       description:
         "Built interactive UIs using components, state, props, and hooks. Applied in career site and hostel project frontend.",
     },
     {
       name: "JavaScript",
       icon: "devicon-javascript-plain colored",
-      proficiency: 85,
+      proficiency: 80,
       description:
         "Used ES6+ for client-side logic, DOM manipulation, API calls, and form validations across real-time apps.",
     },
@@ -34,7 +34,7 @@ const skillsData = {
     {
       name: "Bootstrap",
       icon: "devicon-bootstrap-plain colored",
-      proficiency: 95,
+      proficiency: 90,
       description:
         "Used Bootstrap to create responsive UIs quickly using prebuilt components, utilities, and mobile-first layouts.",
     },
@@ -43,14 +43,14 @@ const skillsData = {
     {
       name: "Node.js",
       icon: "devicon-nodejs-plain colored",
-      proficiency: 90,
+      proficiency: 70,
       description:
         "Handled backend logic and built REST APIs using Node.js in job portal and hostel projects.",
     },
     {
       name: "Express.js",
       icon: "devicon-express-original",
-      proficiency: 90,
+      proficiency: 70,
       description:
         "Created server-side routes, middleware, and authentication flows using Express.js for scalable APIs.",
     },
@@ -61,13 +61,7 @@ const skillsData = {
       description:
         "Built dynamic backend forms and validation logic in CodeIgniter job portal and admin modules.",
     },
-    {
-      name: "CodeIgniter",
-      icon: "devicon-codeigniter-plain colored",
-      proficiency: 90,
-      description:
-        "Worked on CodeIgniter 3 to create MVC-based apps for careers and user management dashboards.",
-    },
+
     {
       name: "MySQL",
       icon: "devicon-mysql-plain colored",
@@ -85,7 +79,7 @@ const skillsData = {
     {
       name: "REST APIs",
       icon: "devicon-fastapi-plain colored", // closest suitable devicon
-      proficiency: 85,
+      proficiency: 80,
       description:
         "Built and consumed REST APIs for job filtering, user login, and CRUD operations.",
     },
@@ -108,24 +102,18 @@ const skillsData = {
     {
       name: "VS Code",
       icon: "devicon-vscode-plain colored",
-      proficiency: 90,
+      proficiency: 85,
       description:
         "Developed and debugged apps in VS Code using extensions, terminal, and Git integration.",
     },
     {
       name: "Postman",
       icon: "📨",
-      proficiency: 95,
+      proficiency: 85,
       description:
         "Used Postman to test and debug REST APIs with different methods and headers in real-time projects.",
     },
-    {
-      name: "Power BI",
-      icon: "📊",
-      proficiency: 80,
-      description:
-        "Created data dashboards and charts in Power BI during training to visualize business insights effectively.",
-    },
+   
   ],
 };
 
